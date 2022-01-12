@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A2_1155162616</string>
+    <string name="default_chatroom">Default Chatroom</string>
+    <string name="chatroom_name">ChatRoom</string>
+    <string name="myName">Sisyphus</string>
+
+    <string name="get_chatroomsAPI">http://18.217.125.61/api/a3/get_chatrooms</string>
+    <string name="get_messagesAPI">http://18.217.125.61/api/a3/get_messages</string>
+    <string name="send_messageAPI">http://18.217.125.61/api/a3/send_message</string>
+    
+    <string name="timeFormatWithYear">yyyy-MM-dd HH:mm</string>
+    <string name="timeFormatWithoutYear">HH:mm</string>
+
+    <string name="rightStatus">OK</string>
+
+    <string name="sendInvalidHint">Text cannot be empty!</string>
+    <string name="sendSuccessedHint">SendMessageSuccessed</string>
+    <string name="sendFailedHint">SendMessageFailed</string>
+    <string name="APIStatusHint">API ERROR!</string>
+</resources>
